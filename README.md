@@ -12,7 +12,8 @@ Matricula:903767
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
-
+![replit1](images/replit1.png) <br>
+![replit2](images/replit2.png)
 
 ## Orientações sobre Linguagem MarkDown
 
