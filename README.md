@@ -2,7 +2,7 @@
 
 ## Informações Gerais
 
-Nome:Otávio Henrique Brandão Marques Teixeira <brgit>
+Nome:Otávio Henrique Brandão Marques Teixeira <br>
 Matricula:903767
 
 ## Tela de inspeção com navegador
