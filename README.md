@@ -8,9 +8,9 @@ Matricula:903767
 ## Tela de inspeção com navegador
 
 `<Coloque aqui       o print da tela de inspeção do seu navegador>`
-![inspect] (projetos/trabalho-pratico-semana-1-dev-otavio/images/inspect.png)
+![inspect] (C:\Users\tavi\Desktop\projetos\trabalho-pratico-semana-1-dev-otavio\images\inspect.png)
 ## Tela de projeto no Replit
-git
+
 `<Coloque aqui o print da tela do projeto no Replit>`
 
 
