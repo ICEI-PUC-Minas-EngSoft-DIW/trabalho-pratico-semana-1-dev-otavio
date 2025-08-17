@@ -2,13 +2,13 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome:Otávio Henrique Brandão Marques Teixeira
+Matricula:903767
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
-
+`<Coloque aqui       o print da tela de inspeção do seu navegador>`
+![inspect] (images/inspect.png)
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
